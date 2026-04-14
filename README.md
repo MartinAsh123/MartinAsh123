@@ -40,7 +40,6 @@ Currently a Cyber Security Engineer at PassportCard Labs, building security tool
 | [DevProxy.ai](https://github.com/MartinAsh123/DevProxy.ai) | Secure internal front door for open-source dependencies — enforcement & visibility without changing dev workflows |
 | [DF-Automation](https://github.com/MartinAsh123/DF-Automation) | Automated extraction from memory dumps using Volatility and automatic carvers |
 | [SOC-Checker](https://github.com/MartinAsh123/SOC-Checker) | SOC analysis automation tool |
-| [anon](https://github.com/MartinAsh123/anon) | Anonymization tool — installs and manages Nipe for traffic routing with country code verification |
 
 > 🔗 Full project portfolio with enterprise deployments: **[martinosher.dev](https://martinosher.dev)**
 
